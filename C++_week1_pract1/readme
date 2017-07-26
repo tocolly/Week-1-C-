@@ -1,5 +1,9 @@
+input : 3 strings
+output : the smallest (lexicographically)
+
 input                 output
 --------------        -----------
 a a x                 a  
 go to lake            go
 fire fog frog         fire
+
