@@ -1,0 +1,2 @@
+The standard input contains five real numbers, separated by a space: N, A, B, X, Y (A <B) - where N is the initial value of the product. 
+Print the cost of the purchase with discount.X, Y - discounts
